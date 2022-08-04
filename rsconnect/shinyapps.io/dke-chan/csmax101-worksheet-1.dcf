@@ -5,7 +5,7 @@ account: dke-chan
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6730930
-bundleId: 6163430
+bundleId: 6166941
 url: https://dke-chan.shinyapps.io/csmax101-worksheet-1/
-when: 1659565185.0317
-lastSyncTime: 1659565185.0317
+when: 1659643977.51513
+lastSyncTime: 1659643977.51516
